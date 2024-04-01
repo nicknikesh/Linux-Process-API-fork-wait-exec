@@ -46,7 +46,9 @@ int main(void)
             
 ```
 
-##OUTPUT
+## OUTPUT
+
+
 
 ![Screenshot 2024-03-22 155647](https://github.com/nivethasuresh1408/Linux-Process-API-fork-wait-exec/assets/152055927/dc68e9b8-a2f3-49fc-a438-7e6b370ade84)
 
@@ -69,7 +71,10 @@ int main(){
 } 
 ```
 
-##OUTPUT
+## OUTPUT
+
+
+
 ![Screenshot 2024-03-22 155711](https://github.com/nivethasuresh1408/Linux-Process-API-fork-wait-exec/assets/152055927/e6fc7a18-c944-4a59-ada7-a38e648726b0)
 
 
@@ -106,7 +111,10 @@ int main() {
 }
 
 ```
-##OUTPUT
+## OUTPUT
+
+
+
 
 ![Screenshot 2024-03-22 155731](https://github.com/nivethasuresh1408/Linux-Process-API-fork-wait-exec/assets/152055927/00b27805-9009-498b-8902-8c7a57fbcdf6)
 
